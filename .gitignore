@@ -1,0 +1,16 @@
+## Thư mục rác của Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## File tạm của hệ điều hành
+Thumbs.db
+desktop.ini
+
+## Các file log và file tạm khác
+*.log
+*.tmp
